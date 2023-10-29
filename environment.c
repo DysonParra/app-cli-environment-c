@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 }
 
 /**
- * FIXME: Definición de {@code splitArray}.
+ * FIXME: Description of {@code splitArray}.
  * Divide un array en n-array cada que encuentre la cadena indicada por "word".
  */
 static char** splitArray(char* array, char* word) {
